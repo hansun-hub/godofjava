@@ -1,2 +1,7 @@
-package com.example.godofjava;public class Calculator {
+package com.example.godofjava;
+
+public class Calculator {
+    public static void main(String[] args){
+        System.out.println("Calculator class started");
+    }
 }
